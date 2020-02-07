@@ -3,5 +3,5 @@ Runs a Kafka Connect node preloaded with the [kafka-connect-datagen](https://git
 
 ## usage
 ```
-docker run -p 8083:8083 -d -e "CONNECT_BOOTSTRAP_SERVERS=broker:9092" datagen-all-in-one-ratings:0.0.1
+docker run -p 8083:8083 -d -e "CONNECT_BOOTSTRAP_SERVERS=broker:9092" cnfldemos/datagen-all-in-one-ratings:0.0.1
 ```
