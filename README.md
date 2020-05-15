@@ -1,4 +1,4 @@
-![image](images/confluent-logo-300-2.png)
+![image](https://raw.githubusercontent.com/confluentinc/examples/latest/images/confluent-logo-300-2.png)
 
 # demos-docker-common
 
